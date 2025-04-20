@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-# 🛠 Featured Projects
+# Featured Projects
 
 A curated selection of leadership-driven and technically grounded projects that reflect my work in cybersecurity, ethical AI, and risk mitigation.
 
 ---
 
-## 📊 AI-Health Risk Dashboard
+## AI-Health Risk Dashboard
 
 **[View on GitHub](https://github.com/RubySummers101/ai-health-risk-dashboard)**
 
@@ -20,7 +20,7 @@ This project demonstrates how AI and data analysis can identify early indicators
 
 ---
 
-## 🔐 Cybersecurity Playbook
+## Cybersecurity Playbook
 
 **[View on GitHub](https://github.com/RubySummers101/cybersecurity-playbook)**
 
@@ -30,7 +30,7 @@ A leadership-level playbook containing real-world incident response templates, r
 
 ---
 
-## ⚙️ Coming Soon
+## ⚙Coming Soon
 
 ### PowerShell Automation Scripts
 Practical endpoint security tools and task automation written in PowerShell.
