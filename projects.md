@@ -30,7 +30,7 @@ A leadership-level playbook containing real-world incident response templates, r
 
 ---
 
-## ⚙Coming Soon
+## Coming Soon
 
 ### PowerShell Automation Scripts
 Practical endpoint security tools and task automation written in PowerShell.
