@@ -1,3 +1,7 @@
+---
+layout: default
+title: Welcome
+---
 
 # Hi, I’m Bren 👋  
 **Cybersecurity Director | AI in Healthcare | Ethical Innovation | Veteran | CISSP | PMP**
