@@ -6,7 +6,7 @@ title: Welcome
 # Hi, I’m Bren 👋  
 **Cybersecurity Director | AI in Healthcare | Ethical Innovation | Veteran**
 
-Welcome to my professional portfolio. I bring 18+ years of experience leading cybersecurity, risk mitigation, and mission-critical operations — with a current focus on **AI-driven healthcare security** and **strategic leadership that prevents failure before it happens.**
+Welcome to my professional portfolio. I bring 18+ years of experience leading cybersecurity, risk mitigation, and mission-critical operations — with a current focus on **AI-driven healthcare security** and **strategic leadership that prevents failure before it happens.** 
 
 ---
 
