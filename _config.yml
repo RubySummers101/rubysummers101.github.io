@@ -1,0 +1,6 @@
+theme: minima
+title: Bren Riley
+description: Cybersecurity | AI in Healthcare | Leadership
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
