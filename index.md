@@ -10,19 +10,19 @@ Welcome to my professional portfolio. I bring 18+ years of experience leading cy
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
-### 📊 [AI-Health Risk Dashboard](https://github.com/RubySummers101/ai-health-risk-dashboard)
+### [AI-Health Risk Dashboard](https://github.com/RubySummers101/ai-health-risk-dashboard)
 A real-world demo showing how AI can detect early indicators of medical risk using synthetic data.  
 **Skills:** Python · Data Analysis · Ethical AI · Healthcare Insight
 
-### 🔐 [Cybersecurity Playbook](https://github.com/RubySummers101/cybersecurity-playbook)
+### [Cybersecurity Playbook](https://github.com/RubySummers101/cybersecurity-playbook)
 Templates and tools for operational security, Zero Trust, incident response, and risk-based decision making.  
 **Skills:** Cyber Leadership · GRC · Security Frameworks · Automation
 
 ---
 
-## 💬 About Me
+## About Me
 
 I specialize in:
 - **Cybersecurity leadership**
@@ -35,7 +35,7 @@ My work is grounded in real-world experience and driven by a mission:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/brenriley/)
 - GitHub: [@RubySummers101](https://github.com/RubySummers101)
