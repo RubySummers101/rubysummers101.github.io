@@ -4,3 +4,8 @@ description: Cybersecurity | AI in Healthcare | Leadership
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
