@@ -30,13 +30,21 @@ A leadership-level playbook containing real-world incident response templates, r
 
 ---
 
-## Coming Soon
+## PowerShell Security Hardening
 
-### PowerShell Automation Scripts
-Practical endpoint security tools and task automation written in PowerShell.
+**[View on GitHub](https://github.com/RubySummers101/powershell-sec-hardening)**
 
-### Security Policy Frameworks
-Sample access control, user provisioning, and configuration policy templates aligned to NIST and ISO 27001.
+A PowerShell script that disables USB storage device access on Windows machines to help reduce insider risk and prevent unauthorized data transfers. Includes full documentation and restore steps.
+
+**Skills:** PowerShell · Windows Hardening · Endpoint Protection · Insider Threat Mitigation
+
+---
+
+## More Projects Coming Soon
+
+- Additional PowerShell automation scripts
+- Security policy frameworks aligned with NIST and ISO
+- Data-driven dashboards for security operations and risk visualization
 
 ---
 
